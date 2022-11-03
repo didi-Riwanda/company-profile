@@ -1,0 +1,3 @@
+untuk membuat menu yang bisa memanggil modal seperti di bootstrap menggunakan data target.
+letak targetnya sebelum nav. tapi jangan lupa gunakan javascript.
+karena di materialize selalu pakai javascript untuk menggunakan sebagian kelasnya.
